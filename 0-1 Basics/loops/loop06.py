@@ -1,3 +1,5 @@
+# Write a program to find the factorial of a given number.
+
 num = int(input("Enter a number: "))
 factorical_num = 1
 while num > 0:

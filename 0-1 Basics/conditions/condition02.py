@@ -1,3 +1,4 @@
+# Write a program that asks the user for their age and the day of the week they want to go to the movies.
 user_age = input("Enter your age : ")
 age = int(user_age)
 

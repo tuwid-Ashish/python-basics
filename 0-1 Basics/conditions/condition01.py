@@ -1,3 +1,4 @@
+# write a program that asks the user for their age and then prints out a message based on the age.
 user_age = input("Enter your age: ")
 age = int(user_age)
 

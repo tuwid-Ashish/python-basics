@@ -1,3 +1,5 @@
+# Write a program that asks the user for their score and prints out their grade based on the following:
+
 Scores = int(input("Enter your score: "))
 if Scores >= 90:
     print("You got an A")

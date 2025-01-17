@@ -1,3 +1,4 @@
+# 1. Create a function that takes a number as an argument and returns its square.
 def sqare(n):
     return n ** 2
 
